@@ -1,0 +1,119 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+.content{
+    
+    height: 100vh;
+}
+
+.d-flex{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.d-flex-jcnot{
+    display: flex;
+   /* justify-content: center; */
+   align-items: center;
+}
+
+.horizontalline{
+    width: 5rem;
+}
+
+.content-1{
+    margin: 1rem;
+    color: green;
+}
+
+.margin-1{
+    margin: 1rem;
+}
+.main-body{
+    border: 1px solid grey;
+    border-radius: 4px;
+    margin: 15px;
+    width: 25rem;
+    height: 5rem;
+}
+.inside-main-body{
+    
+    margin: 10px;
+
+
+}
+
+.width-content{
+    width: 10rem;
+}
+
+.radio-number{
+    width: 15rem !important;
+    
+}
+
+.offertype{
+    width: 10rem;
+    float: right;
+    align-items: end;
+    /* display: flex; */
+    justify-content: end;
+}
+
+.color-offer{
+    color: green;
+}
+
+input[type=radio] {
+    accent-color: green !important;
+}
+
+.bold-font{
+    font-weight: 200;
+}
+.only-d-flex{
+  display: flex;
+}
+
+.margin-ship{
+    margin-right: 7rem;
+}
+
+.size-margin{
+    margin-right: 26px;
+}
+
+.color-black{
+    color: black;
+}
+
+.border-cart{
+    background: green;
+    margin: 2rem;
+    padding: 1rem;
+    width: 22rem;
+    color: white;
+    text-align: center;
+}
+.d-none{
+    display: none;
+}
+
+.dynamic-class{
+    display: flex !important;
+}
+
+.color-change{
+    border: 2px solid green;
+    border-radius: 4px;
+    height: 8rem !important;
+}
+
+
+
